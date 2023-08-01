@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/css/main.8fa11a83.css",
+    "main.js": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/js/main.f8caf8c4.js",
+    "static/js/787.a2cb61a6.chunk.js": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/js/787.a2cb61a6.chunk.js",
+    "static/media/BLOODTALE.png": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/media/BLOODTALE.460540ad59370698e52e.png",
+    "static/media/Weather_App.png": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/media/Weather_App.e8aa2a26b39b3dcf8e05.png",
+    "static/media/Savvy-Tech-Blog.png": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/media/Savvy-Tech-Blog.3537df577a5118628d78.png",
+    "static/media/PWA-TextEditor.png": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/media/PWA-TextEditor.c9f8cc3603dc8c17781e.png",
+    "static/media/SOCIAL NETWORK API.png": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/media/SOCIAL NETWORK API.8a33ec66681cd4159301.png",
+    "static/media/Employee-Tracker.png": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/media/Employee-Tracker.2eff9e5feaf23b0a046e.png",
+    "static/media/Site-Background.png": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/media/Site-Background.2a37b7bb2c92cb05faca.png",
+    "static/media/Profile_Pic.jpg": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/media/Profile_Pic.9a971cc38163f30ed661.jpg",
+    "static/media/MARCO_SAVERINO_RESUME.pdf": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/media/MARCO_SAVERINO_RESUME.e865e9f5b189ec70c0c3.pdf",
+    "index.html": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/index.html",
+    "main.8fa11a83.css.map": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/css/main.8fa11a83.css.map",
+    "main.f8caf8c4.js.map": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/js/main.f8caf8c4.js.map",
+    "787.a2cb61a6.chunk.js.map": "/MarcoSaverino/Msavvy-ReactPortfolio/tree/main/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa11a83.css",
+    "static/js/main.f8caf8c4.js"
+  ]
+}
