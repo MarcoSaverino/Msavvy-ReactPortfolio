@@ -4,7 +4,7 @@ import PWATextEditor from "../../assets/small/PWA-TextEditor.png";
 import weatherApp from "../../assets/small/Weather_App.png";
 import EmployeeTracker from "../../assets/small/Employee-Tracker.png";
 import Bloodtale from "../../assets/small/BLOODTALE.png";
-import SocialNetworkAPI from "../../assets/small/SOCIAL NETWORK API.png";
+import kb_fanatics from "../../assets/small/e-commerce-store.png";
 
 
 function Portfolio() {
@@ -26,22 +26,23 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://github.com/MarcoSaverino/Msavvy-Social-Network-API">
+              <a href="https://kb-fanatics-2-c059b16fa22f.herokuapp.com/myaccount">
                 {" "}
                 <img
-                  src={SocialNetworkAPI}
+                  src={kb_fanatics}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="Social-Network-API"
+                  alt="kb_fanatics"
                 />
               </a>
             </div>
             <div className="job-text">
-              <h4>SOCIAL NETWORK API</h4>
+              <h4>FB fanatics E-Commerce Site</h4>
               <p>
-              An API for a social network web application 
-              where users can share their thoughts, react to friends’ 
-              thoughts, and create a friend list{" "}
+              a mock online store dedicated to mechanical keyboard enthusiasts. 
+              On the frontend, we utilize React and Apollo Client for an intuitive 
+              and dynamic user experience. For the backend, we've chosen NodeJS, Apollo Server, 
+              and MongoDB, providing a powerful, scalable, and real-time solution.{" "}
               </p>
             </div>
           </div>
