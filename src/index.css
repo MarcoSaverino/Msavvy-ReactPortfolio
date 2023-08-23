@@ -5,6 +5,10 @@
   box-sizing: border-box;
 }
 
+.profile-image {
+  width: 100%;
+}
+
 :root {
   /*main colors */
   --primary-color: #000000;
