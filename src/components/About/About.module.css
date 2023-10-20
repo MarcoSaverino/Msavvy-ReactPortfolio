@@ -1,0 +1,13 @@
+body {
+    /* more on this crazy alphanumerical value in a minute! */
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #fffdfd;
+    background-image: url(../src/assets/Site-Background.png) ;
+    background-size: cover;
+    background-position: center;
+  }
+  
